@@ -1,0 +1,5 @@
+# Configuration file for the MendingXP plugin.
+# This file controls various settings and options for the plugin.
+
+# The amount of XP required to repair one point of durability on a damaged item.
+xpCost: 3
